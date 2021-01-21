@@ -1,4 +1,4 @@
-a Dynamic web application for Students/Programmers.
+A Dynamic web application for Students/Programmers.
 in this system all  Students/Programmers information will be archived . Here Teachers can Monitor Students/Programmers regular ranking and improvements based on their marks or ratings. Teachers can publish regular news and updates with a blog system interface. Students/Programmers will get their marks and rating within a automatic update system. Using this system Students/Programmers can measure their improvements and skills regularly.
 
 ## Features :
