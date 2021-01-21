@@ -20,5 +20,5 @@ in this system all  Students/Programmers information will be archived . Here Tea
 ![6](https://user-images.githubusercontent.com/16709991/105356152-410b5200-5c1d-11eb-9921-a4de3970ea0a.PNG)
 ![7](https://user-images.githubusercontent.com/16709991/105356155-41a3e880-5c1d-11eb-86ce-8ebc54badf17.PNG)
 ![8](https://user-images.githubusercontent.com/16709991/105356160-423c7f00-5c1d-11eb-9be5-3318b40a88c0.PNG)
-![9](https://user-images.githubusercontent.com/16709991/105356161-42d51580-5c1d-11eb-8f88-5e773be61561.PNG)
+
 
